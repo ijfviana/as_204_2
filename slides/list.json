@@ -1,0 +1,139 @@
+[
+
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "img/covert.png",
+            "class": "home",
+            "data-state": "homepage"
+        }
+    },
+    {
+        "filename": "outline.md",
+        "attr": {}
+    },
+    [
+    	{
+        	"filename": "introduction.md",
+        	"attr": {
+        		"data-state": "big-title",
+            	"data-transition":"zoom"
+            	}
+        },
+        {
+        	"filename": "introduction_contents.md",
+        	"attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+        }
+    ],
+    [
+	    {
+	        "filename": "Understanding_Disk_Hardware.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "Understanding_Disk_Hardware_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+   [
+	    {
+	        "filename": "Identifying_Disk_Resource_Use.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "Identifying_Disk_Resource_Use_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+    [
+	    {
+	        "filename": "Testing_Disk_Performance.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "Testing_Disk_Performance_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+    ],
+
+
+    [
+	    {
+	        "filename": "Adjusting_Disk_Parameters.md",
+	        "attr": {
+	            "data-state": "big-title",
+	            "data-transition":"zoom"
+	        }
+	    },
+	    {
+	        "filename": "Adjusting_Disk_Parameters_contents.md",
+	        "attr": {
+	            "data-separator": "^\n\n\n",
+	            "data-vertical": "^\n\n"
+	        }
+	    }
+
+    ],
+
+    [
+      {
+          "filename": "Monitoring_a_Disk_for_Failure.md",
+          "attr": {
+              "data-state": "big-title",
+              "data-transition":"zoom"
+          }
+      },
+      {
+          "filename": "Monitoring_a_Disk_for_Failure_contents.md",
+          "attr": {
+              "data-separator": "^\n\n\n",
+              "data-vertical": "^\n\n"
+          }
+      }
+
+    ],
+   {
+        "filename": "bibliography.md",
+        "attr": {
+            "data-state":"biblio",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    },
+
+    {
+        "filename": "end.md",
+        "attr": {
+            "data-state":"thanks",
+            "class":"alternatelight",
+           "data-separator": "^\n\n\n",
+            "data-vertical": "^\n\n"
+
+        }
+    }
+]
